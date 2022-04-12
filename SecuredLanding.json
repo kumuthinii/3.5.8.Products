@@ -1,0 +1,17 @@
+[
+  {
+    "uob_accountnumber": "12309439",
+    "uob_accountproducttypename": "House Loan",
+    "record1roleid": "IDR",
+    "CURTYP": "450000",
+    "OSBAL": "Active",
+    "uob_accountstatusdescriptionname": "50000",
+    "PRNAMT": "2456",
+    "RPYAMT": "15.7",
+    "RATE": "10",
+    "TERM": "2456",
+    "TMCODE": "15/12/2021",
+    "NPDAM2": "Primrary",
+    "NPDDT6": "T4 Top up Race"
+  }
+]

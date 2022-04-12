@@ -1,0 +1,15 @@
+[
+  {
+    "serviceType": "HBK",
+    "serviceSubType": "Home Banking",
+    "serviceCount": "002",
+    "status": ""
+  },
+
+  {
+    "serviceType": "ATM",
+    "serviceSubType": "ASF",
+    "serviceCount": "001",
+    "status": ""
+  }
+]
